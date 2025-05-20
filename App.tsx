@@ -15,7 +15,7 @@ export default function App() {
     },
     {
       name: "Harsimarpreet Singh Sahota",
-      github_repo: "johndoe",
+      github_repo: "Harsimar-Sahota",
       group_no: "3"
     }
   ]
